@@ -44,7 +44,7 @@ To explore money transfer logic use the following user names as reciever side us
 ✅ Use of JavaScript Date, Time, and Intl APIs for formatting
 
 
-## 🎯 Learning Objectives / Concepts Practiced
+## 🎯 What I Gained  / Concepts Practiced
 
 ✅ Efficient DOM Manipulation and Event Handling
 
