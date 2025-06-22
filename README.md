@@ -6,6 +6,13 @@ This application demonstrates how a fictional bank account system might work, co
 
 click here to see the live demo-->https://nanthakumar-m.github.io/Cash_Craft-Simple_Digital_payment_site-Javascript/
 
+To explore the features, use the following dummy account:
+
+Username: nk
+Password: 1111
+
+To explore money transfer logic use the following user names as reciever side user name--> **hh** or **ms** or **sn**
+
 ## ⚙️ Technologies Used
 
 - HTML5
