@@ -4,12 +4,13 @@ Cash Craft is a GPay-style digital payment simulation site built using HTML, CSS
 
 This application demonstrates how a fictional bank account system might work, complete with login, transaction history, balance updates, transfers, loan functionality, and auto-logout for session security.
 
-click here to see the live demo-->https://nanthakumar-m.github.io/Cash_Craft-Simple_Digital_payment_site-Javascript/
+🔗👉 click here to see the live demo-->https://nanthakumar-m.github.io/Cash_Craft-Simple_Digital_payment_site-Javascript/
 
 To explore the features, use the following dummy account:
 
-Username: nk
-Password: 1111
+-Username: nk
+
+-Password: 1111
 
 To explore money transfer logic use the following user names as reciever side user name--> **hh** or **ms** or **sn**
 
