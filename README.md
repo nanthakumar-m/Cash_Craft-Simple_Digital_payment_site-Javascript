@@ -8,9 +8,9 @@ This application demonstrates how a fictional bank account system might work, co
 
 To explore the features, use the following dummy account:
 
--Username: nk
+- Username: nk
 
--Password: 1111
+- Password: 1111
 
 To explore money transfer logic use the following user names as reciever side user name--> **hh** or **ms** or **sn**
 
