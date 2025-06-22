@@ -6,6 +6,9 @@ This application demonstrates how a fictional bank account system might work, co
 
 🔗👉 click here to see the live demo-->https://nanthakumar-m.github.io/Cash_Craft-Simple_Digital_payment_site-Javascript/
 
+🚫 Note: This website is not responsive and is best viewed on desktop screens.
+
+
 To explore the features, use the following dummy account:
 
 - Username: nk
@@ -54,5 +57,15 @@ To explore money transfer logic use the following user names as reciever side us
 ✅ Applying JavaScript Logic for condition-based feature access
 
 ✅ Structuring Realistic Banking Operations using object-oriented data
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/1efc4019-7e38-4957-8712-b27c528d6dd9)
+
+![image](https://github.com/user-attachments/assets/933ea1c1-d1c5-4070-b89e-8922ace73c90)
+
+![image](https://github.com/user-attachments/assets/44bbb7ab-4570-4f7a-92b5-7b8edf35f9b4)
+
+![image](https://github.com/user-attachments/assets/da2250f7-1d57-415d-8bfc-c9424a14c7fa)
 
 
